@@ -31,7 +31,8 @@
   width: 200px;
 }
 
-.menu .icon, .menu.icon {
+.menu .icon,
+.menu.icon {
   color: var(--settings-menu-icon-color);
   width: 30px;
   font-size: 20px;
